@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aportapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="calculateButton">¿Cuánto debo pagar?</string>
+    <string name="inputSalary">Ingresa aqui tu salario</string>
+    <string name="information">¡Calcula el valor de tus aportes sociales!</string>
+    <string name="nameApp">aportapp</string>
+    <string name="title_activity_show_data">ShowData</string>
+    <string name="base">Base:</string>
+    <string name="salud">Salud:</string>
+    <string name="pension">Pensión:</string>
+    <string name="arl">Arl:</string>
+    <string name="total">Total:</string>
+    <string name="modifySalary">Modificar salario</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>
